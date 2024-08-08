@@ -2,7 +2,7 @@
 
 _A Weather Application that simplifies the way you view weather_
 
-![image](https://user-images.githubusercontent.com/95405559/224475649-8e40bea7-b457-40dd-89ec-4b1cc60cda75.png)
+
 
 
 ## Table of Content:
