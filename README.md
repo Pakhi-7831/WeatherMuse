@@ -2,7 +2,7 @@
 
 _A Weather Application that simplifies the way you view weather_
 
-
+![image](https://user-images.githubusercontent.com/95405559/224475649-8e40bea7-b457-40dd-89ec-4b1cc60cda75.png) 
 
 
 ## Table of Content:
@@ -26,7 +26,6 @@ WeatherMuse aims at changing this situation by providing with a minimalistic and
 
 ## Local Setup :
 - Fork the repository.
-  ![image](https://user-images.githubusercontent.com/95405559/223359009-43330b81-751c-4834-97cc-8755ef797e63.png)
 - Clone the forked repository to your local machine.
 ```markdown
 git clone https://github.com/your-username/WeatherMuse.git
